@@ -4,8 +4,10 @@ The goal of this project is to explore the potential of deep learning in predict
 
 ![image](https://github.com/user-attachments/assets/5084df29-b70f-41e2-a641-e73f5bf16d7b)
 
-![image](https://github.com/user-attachments/assets/84897064-f84f-4ebf-abf8-2918d47f8cad)
+![image](https://github.com/user-attachments/assets/a04195ab-d8d0-407b-a89b-f50ae79d85e2)
 
-![image](https://github.com/user-attachments/assets/6845d07f-9192-4920-a62c-e7f0744e6af9)
+![image](https://github.com/user-attachments/assets/be86d6f6-f8ee-43e4-8a0b-0ec9a0483010)
+
+
 
 
